@@ -39,7 +39,7 @@ Seeking opportunities to expand my skill set and gain practical experience in th
 <a href="https://linkedin.com/in/sahanakhanai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahanakhanai" height="30" width="40" /></a>
 <a href="https://fb.com/sahana.khanai.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahana.khanai.5" height="30" width="40" /></a>
 <a href="https://instagram.com/sahana_khanai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahana_khanai" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/sahana_khanai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sahana_khanai" height="30" width="40" /></a>
+<a href="https://www.hackranck.com/sahana_khanai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sahana_khanai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
