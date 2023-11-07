@@ -17,7 +17,13 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello 👋, I'm Sahana Khanai</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<p>Aspiring software and web developer with a background in Computer Science and Engineering. Pursuing a degree set to culminate in July 2023 at JCER Belagavi. Possessing a strong foundation in Python, Software Development, C programming, HTML, CSS, JavaScript, PHP, MySQL, Tkinter, Git & GitHub. I am able to efficiently analyze information and reach optimal solutions.
+<p>As a recent graduate of Jain College of Engineering and Research with a Bachelor of Engineering in Computer Science and Engineering, I have acquired a strong foundation in web development, artificial intelligence, and data analysis. I have demonstrated my academic excellence by achieving a CGPA of 9.15 and receiving the gold medal for my outstanding performance in the VTU final exam.
+
+I have also gained valuable practical experience as a Software Development Intern at NSREEM, where I applied HTML, CSS, and JavaScript to design and develop interactive and responsive web interfaces. I contributed to client projects, exceeding expectations by translating requirements into visually appealing user experiences. I also engaged in backend development using PHP, ensuring efficient server-side functionality. Additionally, I participated in code reviews and continuous learning, refining my coding practices and staying updated with industry trends.
+
+Furthermore, I have honed my skills and knowledge in artificial intelligence as an Artificial Intelligence Intern at KnowX Innovations Pvt Ltd. I showcased my proficiency in Python by developing a password manager using Tkinter, integrated with MySQL and Python. I also led a project on credit card fraud detection, using the Random Forest algorithm. I thrived in dynamic teams, fostering open communication and synergy with cross-functional teams. I applied analytics to extract insights and solve AI challenges.
+
+I am passionate about web development and artificial intelligence, and I am eager to apply my skills and insights to make a meaningful impact in the professional world. I am excited to explore new opportunities and challenges that align with my interests and goals. I am confident that I can bring value and innovation to your team with my proven track record and unwavering determination. I am able to efficiently analyze information and reach optimal solutions.
 
 My love for technology and continuous learning drives me to explore new horizons, while my "Big-Picture" thinking and ability to imagine and create is a key strength. I am an adaptable, intelligent, and proactive problem-solver with a deep understanding of software and programming.
 
@@ -31,7 +37,7 @@ Seeking opportunities to expand my skill set and gain practical experience in th
 
 - 📫 How to reach me **sahana.khanai.jcer.cs061@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13TTsN8TXJlcYKpFvUSWrPufjBEoDXWMW/view?usp=sharing](https://drive.google.com/file/d/13TTsN8TXJlcYKpFvUSWrPufjBEoDXWMW/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13TTsN8TXJlcYKpFvUSWrPufjBEoDXWMW/view?usp=sharing]([https://drive.google.com/file/d/13TTsN8TXJlcYKpFvUSWrPufjBEoDXWMW/view?usp=sharing](https://drive.google.com/file/d/1d8u8X_72PiYI0BXVhIjbcXmp5rWvAV7b/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
