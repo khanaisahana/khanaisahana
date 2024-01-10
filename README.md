@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello 👋, I'm Sahana Khanai</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<p>As a recent graduate of Jain College of Engineering and Research with a Bachelor of Engineering in Computer Science and Engineering, I have acquired a strong foundation in web development, artificial intelligence, and data analysis. I have demonstrated my academic excellence by achieving a CGPA of 9.15 and receiving the gold medal for my outstanding performance in the VTU final exam.
+<p>As a recent graduate of Jain College of Engineering and Research with a Bachelor of Engineering in Computer Science and Engineering, I have acquired a strong foundation in web development, artificial intelligence, and data analysis. I have demonstrated my academic excellence by achieving a CGPA of 9.14 and receiving the gold medal for my outstanding performance in the VTU final exam.
 
 I have also gained valuable practical experience as a Software Development Intern at NSREEM, where I applied HTML, CSS, and JavaScript to design and develop interactive and responsive web interfaces. I contributed to client projects, exceeding expectations by translating requirements into visually appealing user experiences. I also engaged in backend development using PHP, ensuring efficient server-side functionality. Additionally, I participated in code reviews and continuous learning, refining my coding practices and staying updated with industry trends.
 
@@ -37,7 +37,7 @@ Seeking opportunities to expand my skill set and gain practical experience in th
 
 - 📫 How to reach me **sahana.khanai.jcer.cs061@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1d8u8X_72PiYI0BXVhIjbcXmp5rWvAV7b/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1sm2YCLZGYESpV7XsDF6MYx4jEdcuMvr3/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
