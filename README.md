@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - **KnowX Innovations Internship:** Developed a password manager using Python and Tkinter, integrated with MySQL. Led a project on credit card fraud detection with the Random Forest algorithm.
 
 **Passion and Goals:**
-I am driven by a love for technology and continuous learning, aiming to make a positive impact through innovative solutions. I'm excited to explore new opportunities in software development and AI.
+I am driven by a love for technology and continuous learning, aiming to make a positive impact through innovative solutions. I'm excited to explore new opportunities in the tech industry. 
 
 Let's connect and create something amazing together!</p>
 
