@@ -33,11 +33,10 @@ Let's connect and create something amazing together!</p>
 
 <p align="left"> <a href="https://twitter.com/khanaisahana" target="blank"><img src="https://img.shields.io/twitter/follow/khanaisahana?logo=twitter&style=for-the-badge" alt="khanaisahana" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://khanaisahana.github.io/portfoli_website/](https://khanaisahana.github.io/portfoli_website/)
+- 👨‍💻 All of my projects are available at [https://khanaisahana.github.io/portfoli_website/](https://khanaisahana.github.io/sahanakhanai/)
 
 - 📫 How to reach me **sahana.khanai.jcer.cs061@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1sm2YCLZGYESpV7XsDF6MYx4jEdcuMvr3/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
