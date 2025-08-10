@@ -16,18 +16,25 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello 👋, I'm Sahana Khanai</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<p>I graduated with a gold medal in Computer Science and Engineering from Jain College of Engineering and Research, achieving a CGPA of 9.14. Currently, I'm a Developer at TCS, where I leverage Java, JDBC, JSP Servlet, Spring MVC, Hibernate, and PostgreSQL to build robust applications.
+<h3 align="center">Generative AI Engineer | Full-Stack Developer | Problem Solver</h3>
+<p>I’m a passionate software developer from India with a gold medal in Computer Science and Engineering from Jain College of Engineering and Research (CGPA: 9.14).
+Currently working at TCS as a Generative AI Engineer, where I blend AI innovation with software engineering excellence to build intelligent, scalable, and impactful solutions.
 
 **Professional Experience:**
-- **TCS Developer:** Implementing Java-based solutions for scalable applications, integrating JDBC for database connectivity, and utilizing frameworks like Spring MVC and Hibernate for efficient development.
+- **Tata Consultancy Services (TCS) – Generative AI Engineer:**
 
-- **NSREEM Internship:** Designed and developed responsive web interfaces using HTML, CSS, and JavaScript. Contributed to backend development with PHP, exceeding client expectations.
+Designing and deploying LLM-powered applications using LangChain, LangGraph, RAG, and vector databases like FAISS.
 
-- **KnowX Innovations Internship:** Developed a password manager using Python and Tkinter, integrated with MySQL. Led a project on credit card fraud detection with the Random Forest algorithm.
+Building secure and scalable APIs with Java, Spring Boot, and integrating AI-driven capabilities into enterprise applications.
+
+Optimizing AI workflows with prompt engineering, multi-agent orchestration, and explainable AI dashboards.
+
+
 
 **Passion and Goals:**
-I am driven by a love for technology and continuous learning, aiming to make a positive impact through innovative solutions. I'm excited to explore new opportunities in the tech industry. 
+I’m driven by a love for AI innovation and continuous learning. My mission is to build AI-powered systems that solve real-world problems, enhance decision-making, and create lasting impact. I’m always excited to collaborate on cutting-edge projects in Generative AI and Machine Learning.
+
+
 
 Let's connect and create something amazing together!</p>
 
