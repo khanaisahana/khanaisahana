@@ -23,11 +23,11 @@ Currently working at TCS as a Generative AI Engineer, where I blend AI innovatio
 **Professional Experience:**
 - **Tata Consultancy Services (TCS) – Generative AI Engineer:**
 
-Designing and deploying LLM-powered applications using LangChain, LangGraph, RAG, and vector databases like FAISS.
+--Designing and deploying LLM-powered applications using LangChain, LangGraph, RAG, and vector databases like FAISS.
 
-Building secure and scalable APIs with Java, Spring Boot, and integrating AI-driven capabilities into enterprise applications.
+--Building secure and scalable APIs with Java, Spring Boot, and integrating AI-driven capabilities into enterprise applications.
 
-Optimizing AI workflows with prompt engineering, multi-agent orchestration, and explainable AI dashboards.
+--Optimizing AI workflows with prompt engineering, multi-agent orchestration, and explainable AI dashboards.
 
 
 
